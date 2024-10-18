@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations');     
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/Abn0eNURAd9l.eot');
+  src: url('../fonts/Abn0eNURAd9l.eot#iefix') format('embedded-opentype'),
+       url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations'),
+       url('../fonts/hPHaMqSTaEru.woff2') format('woff2'),
+       url('../fonts/RqiPmbIZ922J.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/fYNmBwRuXz8w.eot');
+  src: url('../fonts/fYNmBwRuXz8w.eot#iefix') format('embedded-opentype'),
+       url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations'),  
+       url('../fonts/BUSbz8KNYo1d.woff2') format('woff2'),
+       url('../fonts/yoXmLG2tmkwF.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/Yz5CUiXF7orr.eot');
+  src: url('../fonts/Yz5CUiXF7orr.eot#iefix') format('embedded-opentype'),
+       url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations'),  
+       url('../fonts/Fbc5CN25bD9I.woff2') format('woff2'),
+       url('../fonts/ZjuTpQThMsco.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/upkpZGwTxpN9.eot');
+  src: url('../fonts/upkpZGwTxpN9.eot#iefix') format('embedded-opentype'),
+       url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations'),  
+       url('../fonts/xVIUPJKmqhrh.woff2') format('woff2'),
+       url('../fonts/eGGX6Locn9Zt.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/w8kN5tM0N1S8.eot');
+  src: url('../fonts/w8kN5tM0N1S8.eot#iefix') format('embedded-opentype'),
+       url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations'),  
+       url('../fonts/0MkQww7Io7o9.woff2') format('woff2'),
+       url('../fonts/jYBr5nK0nQdR.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/KyV82tEUVIPs.eot');
+  src: url('../fonts/KyV82tEUVIPs.eot#iefix') format('embedded-opentype'),
+       url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations'),  
+       url('../fonts/g3DtqDNooZ5G.woff2') format('woff2'),
+       url('../fonts/tsaudwiZjv21.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/cS7gVpS9Uo8n.eot');
+  src: url('../fonts/cS7gVpS9Uo8n.eot#iefix') format('embedded-opentype'),
+       url('../fonts/dSld3INVivku.woff2') format('woff2-variations'),
+       url('../fonts/xMyAAdEWnXdV.woff') format('woff-variations'),  
+       url('../fonts/8gSlnMrjOfy0.woff2') format('woff2'),
+       url('../fonts/qu3GTsnEQ2Zc.woff') format('woff');
+}
